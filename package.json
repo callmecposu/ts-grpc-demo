@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "dotenv": "^16.4.0",
     "grpc": "^1.24.11",
     "grpc_tools_node_protoc_ts": "^5.3.3",
     "grpc-tools": "^1.12.4",
+    "mongoose": "^8.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
